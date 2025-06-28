@@ -1,1 +1,1 @@
-# Tashkent_housing_prics_prediction
+# Tashkent housing prices prediction model
